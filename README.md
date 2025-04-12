@@ -117,8 +117,14 @@ python manage.py runserver
 - `PostList`: ListView that displays published posts on the homepage
 - `PostDetail`: DetailView that displays a specific post
 
-## Test Screenshots
+## Test App Screenshots
 
 ![alt text](/TestImages/Posts.png)
 ![alt text](/TestImages//Comments.png)
 ![alt text](/TestImages/View.png)
+
+## Test API Screenshots
+
+![alt text](/TestImages/ApiTest.png)
+![alt text](/TestImages/GetCommentsTest.png)
+![alt text](/TestImages/GetPostsTest.png)
